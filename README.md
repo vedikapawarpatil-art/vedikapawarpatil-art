@@ -6,20 +6,24 @@ I enjoy building projects and improving my coding skills.
 I'm passionate about bringing my idea into reality.
 
 
-🧰 Tools & Tchnology 
-🔘💻 Language: Python,C,HTML&CSS
-🔘📚 Libraries: Pandas,NumPY,scikit
-🔘🛠️ Tools: VScode,Github,
 
-🎯
+- 💻 Languages: Python, C, Java, SQL, HTML, CSS
+- 📚 Libraries: NumPy, Pandas, Scikit-learn
+- 🧠 AI/ML: Machine Learning, Data Analysis, Classification, Regression
+- 🛠️ Tools: VS Code, Git, GitHub, Jupyter Notebook, 
+- ☁️ Platforms: Google Colab
+- 🚀 Current Learning Goals
+- 📊 Improving my Machine Learning and Data Analysis skills  
+- 🤖 Building AI/ML-based projects  
+- 💻 Improving Python and problem-solving skills  
+- 🌱 Learning new technologies and development tools
+
+📘connect with me 
+📩 vedikapawarpatil@gmail.com
+
+Thanks for visiting my profile
 
 
 
 
-Here are some ideas to get you started:
 
-
-- 📫 How to reach me:
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
